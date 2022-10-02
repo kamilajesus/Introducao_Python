@@ -3,3 +3,14 @@ feijao
 acucar
 farinha
 arroz
+groselha
+carro
+azul
+verde
+amarelo
+preto
+cadeira
+mesa
+notebook
+fogao
+mostarda
